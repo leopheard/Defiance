@@ -21,10 +21,10 @@
     <source>https://github.com/leopheard/Defiance</source>
     <website>https://www.defiance.news/</website>
         	<assets>
-			<icon>resources/media/icon.jpg</icon>
+			<icon>resources/media/logo.png</icon>
 			<fanart>resources/media/fanart.jpg</fanart>
 			<screenshot>resources/media/1.jpg</screenshot>
-			<screenshot>resources/media/icon.jpg</screenshot>
+			<screenshot>resources/media/logo.png</screenshot>
 			<screenshot>resources/media/fanart.jpg</screenshot>
 		</assets>
   </extension>
