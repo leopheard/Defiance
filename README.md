@@ -1,6 +1,6 @@
-<a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://www.defiance.news/">Defiance</a> podcast.<br>
+<a href="https://kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://www.defiance.news/">Defiance</a> podcast.<br>
 
-<img src="https://github.com/leopheard/Defiance/blob/master/resources/media/logo.jpg?raw=true" width="200" height="200" alt="Defiance"><br>
+<img src="https://github.com/leopheard/Defiance/blob/master/resources/media/icon.jpg?raw=true" width="200" height="200" alt="Defiance"><br>
 
 <a href="https://www.defiance.news/">Defiance</a> is a podcast which looks at some of the most critical issues of our time, from corruption and greed to human rights and freedom. Brought to you by Peter McCormack, Defiance is a combination of in-depth interviews and multi-part deep dives into the issues which affect all of us.<br>
 
